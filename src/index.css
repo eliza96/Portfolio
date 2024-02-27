@@ -1,0 +1,33 @@
+/* .fold:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-style: solid;
+  border-width: 60px 60px 0 0;
+  border-color: #61523180 var(--page-color);
+  transition: all ease .5s;
+}
+
+
+.fold:hover:before {
+  border-width:  90px 90px 0  0;
+  border-color: #eee #ebe3d5;
+} */
+
+
+/* .page-container:hover:before {
+  transform: rotate(0deg);
+  border: solid rgba(111, 99, 61, 0.4);
+  border-width: 0px 0px 0px 1px;
+  left: -6px;
+  top: -6px;
+}
+
+.page-container:hover:after {
+  transform: rotate(0deg);
+  border: solid rgba(111, 99, 61, 0.4);
+  border-width: 0px 0px 0px 1px;
+  right: 3px;
+  top: -3px;
+} */
